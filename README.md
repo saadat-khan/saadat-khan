@@ -137,7 +137,7 @@ Here are some ideas to get you started:
 
 ### 🚀 Projects I'm Proud Of
 
-- 📈 **[Signalist]([https://github.com/your-username/signalist](https://github.com/saadat-khan/Signalist_stock-tracker-app))** · [Live App]([https://signalist.com](https://signalist-stock-tracker-app-seven.vercel.app/))  
+- 📈 **[Signalist](https://github.com/saadat-khan/Signalist_stock-tracker-app)** · [Live App](https://signalist-stock-tracker-app-seven.vercel.app/)  
   *AI-powered stock market platform built with Next.js, Shadcn, Better Auth & Inngest.*  
   Real-time prices, smart alerts, watchlists, AI insights, and an admin dashboard powered by event-driven workflows.
 
