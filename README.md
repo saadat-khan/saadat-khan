@@ -76,12 +76,12 @@ Here are some ideas to get you started:
       </td>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
         <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <br>MySQL
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
@@ -126,15 +126,21 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/gist?id=your-gist-id-1&theme=radical&hide_border=false" height="150" alt="Gist 1" />
   <img src="https://github-readme-stats.vercel.app/api/gist?id=your-gist-id-2&theme=radical&hide_border=false" height="150" alt="Gist 2" />
 </div>
-
+-->
 ---
-
+<!--
 ### 🚀 Projects I'm Proud Of
-
 - 🔭 [**Personal Portfolio Website**](#) – A responsive portfolio built with React and TailwindCSS.
 - 🧠 [**AI Chatbot**](#) – Built using Python and OpenAI APIs.
 - 📱 [**Mobile Task Tracker**](#) – Flutter-based productivity app.
 -->
+
+### 🚀 Projects I'm Proud Of
+
+- 📈 **[Signalist]([https://github.com/your-username/signalist](https://github.com/saadat-khan/Signalist_stock-tracker-app))** · [Live App]([https://signalist.com](https://signalist-stock-tracker-app-seven.vercel.app/))  
+  *AI-powered stock market platform built with Next.js, Shadcn, Better Auth & Inngest.*  
+  Real-time prices, smart alerts, watchlists, AI insights, and an admin dashboard powered by event-driven workflows.
+
 <hr/>
 
 <div align="center">
